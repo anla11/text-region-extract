@@ -4,7 +4,7 @@ Follow the description from [A New Morphology-based Method for Text Detection in
 
 ## 1. Method
 
-6 steps described in the paper (algorithm 1)
+6 steps described in the paper (the algorithm 1):
 
 + Step 1: Generate the closing image and the opening image by two morphology transformation, dilate and erode 
 
@@ -19,7 +19,7 @@ noises and boundaries between text and background.
 
 + Step 6: Filter results by rates of rate of width and height of text region
 
-My adjustment (algorithm 2):
+My adjustment (the algorithm 2):
 
 + Remove step 3 when text regions are clearly separated from background
 
@@ -36,15 +36,15 @@ https://github.com/anvy1102/text-region-extract/blob/master/MyLib/TextRegionExtr
 
 ## 2. Result
 
-Visualizing final step:
+Visualizing the final step:
 
 ![Process](images/process.png)
 
-Results on VTV Broadcast videos. My adjustment (algorithm 2) has better result on VTV.
+Results on VTV Broadcast videos. My adjustment (algorithm 2 on the right) has better result on VTV.
 
 ![VTV](images/vtv.png)
 
-Results on HTV Broadcast videos. My adjustment (algorithm 2) has better result on HTV.
+Results on HTV Broadcast videos. My adjustment (algorithm 2 on the right) has better result on HTV.
 
 ![VTV](images/htv.png)
 
