@@ -27,7 +27,7 @@ noises and boundaries between text and background.
 
 + Adjust rate of filtering in step 6
 
-After these step, finding contours to obtain bounding boxs of text regions. 
+After these steps, finding contours to obtain bounding boxs of text regions. 
 
 These algorithms are implemented in:
 
