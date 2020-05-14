@@ -44,7 +44,7 @@ Results on VTV Broadcast videos. My adjustment (algorithm 2 on the right) has be
 
 ![VTV](images/vtv.png)
 
-Results on HTV Broadcast videos. My adjustment (algorithm 2 on the right) has better result on HTV.
+Results on HTV Broadcast videos. My adjustment (algorithm 2 on the right) has the same result as the original on HTV.
 
 ![VTV](images/htv.png)
 
