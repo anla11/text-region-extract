@@ -15,7 +15,7 @@ noises and boundaries between text and background.
 
 + Step 4: Perform Otsu image binarization, using a threshold defined dynamically according to the background of the image.
 
-+ Step 5: Applying a low pass filter to remove the noise, which threshold is introduced in step 4.
++ Step 5: Applying a low pass filter to remove the noise, where threshold is introduced in step 4.
 
 + Step 6: Filter results by rates of rate of width and height of text region
 
