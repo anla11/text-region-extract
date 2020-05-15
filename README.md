@@ -1,4 +1,4 @@
-# text-region-extraction
+# Extracting Text Region 
 
 Follow the description from [A New Morphology-based Method for Text Detection in Image and Video](https://research.ijcaonline.org/volume103/number13/pxc3899251.pdf) 
 
